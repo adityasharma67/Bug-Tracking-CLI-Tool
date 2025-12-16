@@ -1,5 +1,6 @@
 package com.bugtracker;
 
+// TODO: Add database persistence later
 import java.util.ArrayList;
 import java.util.List;
 
